@@ -23,11 +23,12 @@
 ## 🌐 Socials
 
 <p align="center">
-  <a href="https://instagram.com/tu_usuario_instagram" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" /></a> &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/tu_enlace_linkedin" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;
-  <a href="https://twitch.tv/code_white_web" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white" /></a> &nbsp;&nbsp;
+  <a href="https://www.instagram.com/axelblassehn/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" /></a> &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/axel-suazo-833898244/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;
+  <a href="mailto:axelgeronimo0@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a> &nbsp;&nbsp;
   <a href="https://www.youtube.com/@axelgeronimo5945" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" /></a>
 </p>
+
 
 ---
 

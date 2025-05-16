@@ -1,79 +1,86 @@
 <h3 align="center">
-  Welcome to Axel Suazo's profile!
+  Welcome to Axel Suazo's GitHub! 🌱
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
+
 <p align="center">
-  <a href="https://github.com/axelgeronimo0"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I+am+Axel+Suazo;I+am+learning+and+working+on+web+dev+and+more"></a>
+  <a href="https://github.com/axelsuazo"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+GitHub!;I+am+Axel+Suazo;React+Web+Developer;Open+to+collaborations+%26+projects;Let%27s+build+awesome+stuff+%F0%9F%92%BB"></a>
 </p>
 
 ---
 
 <div align="center">
 
-💫 About Me:  
-🔭 Actualmente trabajando en una página web en <strong>React</strong> para una floristería 🌸  
-🌱 Aprendiendo <strong>JavaScript</strong>, <strong>Python</strong>, bases de datos, y más  
-👯 Buscando colaborar en proyectos y oportunidades laborales  
-💬 Me interesa ayudar en temas de programación y diseño web  
-📫 Contacto: <strong>axelgeronimo0@gmail.com</strong>  
-⚡ Fun fact: Soy más productivo después de oler café que después de beberlo ☕😄  
+💫 **About Me**  
+🔭 I’m currently working on a React-based website for a flower shop 🌸  
+🌱 I’m learning JavaScript, Python, databases, and more  
+👯 I’m looking to collaborate or work on programming/design projects  
+📫 Email me: **axelgeronimo0@gmail.com**  
+⚡ Fun fact: I debug better with music and coffee 🎧☕  
 
-## 🌐 Socials  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/TU_USUARIO_INSTAGRAM)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TU_ENLACE_LINKEDIN)  
-[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/code_white_web)  
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@axelgeronimo5945)
+---
 
-# 💻 Tech Stack  
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  
-![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)  
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)  
-![C++](https://img.shields.io/badge/c%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-%23007ACC.svg?style=for-the-badge&logo=Microsoft-SQL-Server&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)  
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)  
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)  
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)  
+## 🌐 Socials
+
+<p align="center">
+  <a href="https://instagram.com/TU_USUARIO_INSTAGRAM"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/TU_ENLACE_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitch.tv/code_white_web"><img src="https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white" /></a>
+  <a href="https://www.youtube.com/@axelgeronimo5945"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" /></a>
+</p>
+
+---
+
+# 💻 Tech Stack <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32px">
+
+**Frontend**  
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+**Backend & Tools**  
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
-<!-- Diseño y herramientas -->  
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)  
-![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)  
-![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)  
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)  
+**Design & Creatividad**  
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![AutoCAD](https://img.shields.io/badge/AutoCAD-%23E60000.svg?style=for-the-badge&logo=autodesk&logoColor=white)
 
-<!-- Otros -->  
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  
-![Glitch](https://img.shields.io/badge/glitch-%233333FF.svg?style=for-the-badge&logo=glitch&logoColor=white)  
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)  
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)  
-![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
+---
 
-## 🛠 Herramientas y tecnologías utilizadas  
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)  
-![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)  
-![Visual Studio](https://img.shields.io/badge/visual_studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)  
-![Analysis Services](https://img.shields.io/badge/Analysis_Services-0078D7?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)  
-![Integration Services](https://img.shields.io/badge/Integration_Services-FF5B00?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)  
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)  
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
+# 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=axelsuazo&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=axelsuazo&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=axelsuazo&theme=radical&hide_border=false&layout=compact)
 
-## 📊 GitHub Stats  
-![](https://github-readme-stats.vercel.app/api?username=axelgeronimo0&theme=radical&hide_border=false&include_all_commits=false&count_private=false)  
-<br/>  
-![](https://github-readme-streak-stats.herokuapp.com/?user=axelgeronimo0&theme=radical&hide_border=false)  
-<br/>  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=axelgeronimo0&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+---
 
-## 🏆 GitHub Trophies  
-![](https://github-profile-trophy.vercel.app/?username=axelgeronimo0&theme=discord&no-frame=false&no-bg=false&margin-w=4&column=5)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=axelsuazo&theme=discord&no-frame=false&no-bg=false&margin-w=4)
+
+---
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+
+---
+
+![](https://forthebadge.com/images/badges/powered-by-black-magic.svg)
+![](http://ForTheBadge.com/images/badges/built-by-developers.svg)
+![](https://forthebadge.com/images/badges/uses-brains.svg)
+
+---
+
+![](https://komarev.com/ghpvc/?username=axelsuazo&label=Visitors+Count&color=brightgreen)
 
 </div>

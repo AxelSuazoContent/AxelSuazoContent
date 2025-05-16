@@ -1,7 +1,7 @@
-<h3 align="center">
+<h1 align="center">
   Welcome to Axel Suazo's GitHub! 🌱
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
+</h1>
 
 <p align="center">
   <a href="https://github.com/axelsuazo"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+GitHub!;I+am+Axel+Suazo;React+Web+Developer;Open+to+collaborations+%26+projects;Let%27s+build+awesome+stuff+%F0%9F%92%BB"></a>
@@ -45,14 +45,14 @@
 ---
 
 # 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=axelsuazo&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=axelsuazo&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=axelsuazo&theme=radical&hide_border=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=AxelSuazoContent&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=AxelSuazoContent&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AxelSuazoContent&theme=radical&hide_border=false&layout=compact)
 
 ---
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=axelsuazo&theme=discord&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=AxelSuazoContent&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 
@@ -67,6 +67,6 @@
 
 ---
 
-![](https://komarev.com/ghpvc/?username=axelsuazo&label=Visitors+Count&color=brightgreen)
+![](https://komarev.com/ghpvc/?username=AxelSuazoContent&label=Visitors+Count&color=brightgreen)
 
 </div>
